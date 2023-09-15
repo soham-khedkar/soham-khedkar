@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/skjexter](https://github.com/skjexter)
+- 👨‍💻 All of my projects are available at [https://github.com/soham-khedkar](https://github.com/soham-khedkar)
 
 - 📫 How to reach me **sohamunderscore99@gmail.com**
 
