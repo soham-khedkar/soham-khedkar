@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Khedkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/soham-khedkar](https://github.com/soham-khedkar)
 
