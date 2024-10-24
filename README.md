@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A front-end developer from India</h3>
+<h3 align="center">A full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-khedkar&label=Profile%20views&color=0e75b6&style=flat" alt="soham-khedkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-khedkar" alt="soham-khedkar" /></a> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **to build and ship valuable products.**
 
-- 💬 Ask me about **REACT,JS,LLM**
+- 💬 Ask me about **REACT,JS,Nextjs,Typescript,OpenSource,appwrite,supabase and stuff**
 
 - 📫 How to reach me **sohamunderscore99@gmail.com**
 
