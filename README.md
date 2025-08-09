@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A full-stack developer from India</h3>
-
+<h1 align="center">Hello there, I'm Soham good to see you here 😁</h1>
+![Just a gif yeah..]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2cHhjZTF1OW90OGZyMXh1MGRkM2Npc3ExNnFrYmxnb2U2czBsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/101DNxoBTatF16/giphy.gif])
+<h3 align="center">A trying hard to be developer from Nagpur.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-khedkar&label=Profile%20views&color=0e75b6&style=flat" alt="soham-khedkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-khedkar" alt="soham-khedkar" /></a> </p>
 
-- 🌱 I’m currently learning **to build and ship valuable products.**
+- 🌱 I’m currently learning **DSA, yeah it never ends.**
 
-- 💬 Ask me about **REACT,JS,Nextjs,Typescript,OpenSource,appwrite,supabase and stuff**
+- 💬 Ask me about **What we can build together... maybe some useful but not so useful app.**
 
 - 📫 How to reach me **sohamunderscore99@gmail.com**
 
-- ⚡ Fun fact **I am an overthinker by choice!!**
+- ⚡ Fun fact **If only life would be fun , i wont be getting bugs fr 😭**
 
   
 [![soham-khedkar's GitHub | Dependencies](https://stats.quine.sh/soham-khedkar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=soham-khedkar)
