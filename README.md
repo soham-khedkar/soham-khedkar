@@ -1,28 +1,73 @@
-<h1 align="center">Hello there, I'm Soham good to see you here 😁</h1>
-![Just a gif yeah..]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2cHhjZTF1OW90OGZyMXh1MGRkM2Npc3ExNnFrYmxnb2U2czBsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/101DNxoBTatF16/giphy.gif])
-<h3 align="center">A trying hard to be developer from Nagpur.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-khedkar&label=Profile%20views&color=0e75b6&style=flat" alt="soham-khedkar" /> </p>
+<h1 align="center">Hello there, I'm Soham 😁</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-khedkar" alt="soham-khedkar" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2cHhjZTF1OW90OGZyMXh1MGRkM2Npc3ExNnFrYmxnb2U2czBsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/101DNxoBTatF16/giphy.gif" alt="Just a gif yeah.." width="400"/>
+</div>
 
-- 🌱 I’m currently learning **DSA, yeah it never ends.**
+<h3 align="center">A trying-hard-to-be developer from Nagpur.</h3>
 
-- 💬 Ask me about **What we can build together... maybe some useful but not so useful app.**
+---
 
-- 📫 How to reach me **sohamunderscore99@gmail.com**
-
-- ⚡ Fun fact **If only life would be fun , i wont be getting bugs fr 😭**
-
-  
-[![soham-khedkar's GitHub | Dependencies](https://stats.quine.sh/soham-khedkar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=soham-khedkar)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sohamkhedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamkhedkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soham-khedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-khedkar" height="30" width="40" /></a>
-<a href="https://instagram.com/not_so.humble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_so.humble" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soham-khedkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soham-khedkar&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham-khedkar&show_icons=true&locale=en" alt="soham-khedkar" /></p>
+---
+
+### 🌱 Currently Learning
+- **DSA** – Yeah, it never ends.
+
+### 💬 Ask Me About
+- **What we can build together**... maybe some useful but not-so-useful app.
+
+### 📫 How to Reach Me
+- **Email:** sohamunderscore99@gmail.com
+
+### ⚡ Fun Fact
+- If only life would be fun, I wouldn’t be getting bugs fr 😭
+
+---
+
+[![soham-khedkar's GitHub | Dependencies](https://stats.quine.sh/soham-khedkar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=soham-khedkar)
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/sohamkhedkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/soham-khedkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/not_so.humble"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/></a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+<p align="center">
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+  <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-khedkar&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+</p>
