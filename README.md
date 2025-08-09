@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2cHhjZTF1OW90OGZyMXh1MGRkM2Npc3ExNnFrYmxnb2U2czBsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/101DNxoBTatF16/giphy.gif" alt="Just a gif yeah.." width="400"/>
 </div>
 
-<h3 align="center">A trying-hard-to-be developer from Nagpur.</h3>
+<h3 align="center">A trying-hard-to-be developer from "NAGPUR".</h3>
 
 ---
 
@@ -34,15 +34,17 @@
 
 ---
 
-[![soham-khedkar's GitHub | Dependencies](https://stats.quine.sh/soham-khedkar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=soham-khedkar)
-
----
-
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/sohamkhedkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/soham-khedkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/not_so.humble"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/></a>
+   <a href="https://twitter.com/sohamkhedkar" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/soham-khedkar" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/not_so.humble" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
+  </a>
 </p>
 
 ---
